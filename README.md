@@ -1,5 +1,5 @@
-# VR-AR-MR-Resources
-Welcome to the **VR-AR-MR Resources Repository**! This is a hub for learning and building projects in the world of Virtual Reality (VR), Augmented Reality (AR), and Mixed Reality (MR). Whether you're a beginner or an experienced developer, this repository offers tutorials, tools, and resources to explore the exciting field of Extended Reality (XR).
+# Mixed (MR), Augmented (AR) and Virtual Reality (VR) Resources
+Welcome to the **Mixed (MR), Augmented (AR) and Virtual Reality (VR) Resources Repository**! This is a hub for learning and building projects in the world of Virtual Reality (VR), Augmented Reality (AR), and Mixed Reality (MR). Whether you're a beginner or an experienced developer, this repository offers tutorials, tools, and resources to explore the exciting field of Extended Reality (XR).
 
 ## Contents
 - [Resources](./Resources)

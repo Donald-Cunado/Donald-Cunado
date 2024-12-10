@@ -1,8 +1,8 @@
 # Welcome to My Profile 👋
 
 ## About Me 🌍
-- 🎓 **Current MSc Student** in Economics and Business  
-- 🏅 **Cum Laude Graduate** of MSc in Educational Sciences  
+- 🎓 **Current MSc Student** in Economics and Business @ KU Leuven
+- 🏅 **Cum Laude Graduate** of MSc in Educational Sciences  @Vrije Universiteit Brussel
 - 🎓 **20+ Years in Education**: Former Headmaster (6 years), Deputy Head & Head of Sixth Form (2 years), Teacher (20 years)  
 - 💡 Expert in:
   - Educational Leadership

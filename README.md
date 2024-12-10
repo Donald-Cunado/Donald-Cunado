@@ -44,7 +44,7 @@ With a passion for lifelong learning, I aim to integrate **AI and immersive tech
 
 ---
 
-## Collaborative Nature in Deepening the following: 
+## Collaborative Nature in Deepening the following: 💡
 - Programming Languages: Proficiency in C#, C++, and Python.
 - 3D Modeling and Design with tools like Blender, Autodesk Maya, and 3ds Max.
 - UX/UI Design: Skills in creating intuitive and user-friendly interfaces for immersive experiences.

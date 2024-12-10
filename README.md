@@ -27,7 +27,7 @@
 ---
 
 ## 📈 Skills
-- Leadership in Educational and Healthcare Settings  
+- Leadership in Educational and Pedagogical Settings  
 - Teacher Training and Mentorship  
 - Assessment Design for Large-Scale Classrooms  
 - Financial Planning and Budget Management  

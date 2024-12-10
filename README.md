@@ -20,7 +20,7 @@
 ## **Ask Me About My**
 
 ## 🌟 Projects
-- 🔭 **[VR/AR/MR Resources](https://github.com/Donald-Cunado/Donald-Cunado/wiki)**: A curated list of tools, frameworks, and tutorials for VR/AR/MR development in education and healthcare. 
+- 🔭 **[VR/AR/MR Resources](https://github.com/Donald-Cunado/Donald-Cunado/wiki/VR%E2%80%90AR%E2%80%90MR%E2%80%90Resources)**: A curated list of tools, frameworks, and tutorials for VR/AR/MR development in education and healthcare. 
 - 📘 **[AI in Evidence-Based Medicine](https://github.com/Donald-Cunado/Donald-Cunado/wiki/AI-in-Evidence%E2%80%90Based-Medicine)**: A research-driven project exploring AI's applications in bridging the gap between clinical theory and practice through real-world evidence.  
 - 💻 **[EdTech AI Applications](https://github.com/Donald-Cunado/Donald-Cunado/wiki/AI-in-EdTech)**: Exploring AI-based tools to personalise learning and improve student engagement.
 

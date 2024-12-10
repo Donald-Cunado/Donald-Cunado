@@ -19,14 +19,14 @@
 
 ## **Ask Me About My**
 
-## 🌟 my Projects
+## 🌟 My Projects
 - 🔭 **[VR/AR/MR Resources](https://github.com/Donald-Cunado/Donald-Cunado/wiki)**: A curated list of tools, frameworks, and tutorials for VR/AR/MR development in education and healthcare. 
 - 📘 **[AI in Evidence-Based Medicine](https://github.com/Donald-Cunado/Donald-Cunado/wiki/AI-in-Evidence%E2%80%90Based-Medicine)**: A research-driven project exploring AI's applications in bridging the gap between clinical theory and practice through real-world evidence.  
 - 💻 **[EdTech AI Applications](https://github.com/Donald-Cunado/Donald-Cunado/wiki/AI-in-EdTech)**: Exploring AI-based tools to personalise learning and improve student engagement.
 
 ---
 
-## 📈 Skills
+## 📈 My Skills
 - Leadership in Educational and Healthcare Settings  
 - Teacher Training and Mentorship  
 - Assessment Design for Large-Scale Classrooms  
@@ -44,40 +44,14 @@ With a passion for lifelong learning, I aim to integrate **AI and immersive tech
 
 ---
 
-## My Collaborative Nature in Deepening  ![Learning](./path/to/your/image.png)
-
-# AI, MR, AR, VR Dashboards in Evidence-Based Medicine and Education
-
-This repository contains interactive dashboards for visualizing and analyzing AI-driven tools in Evidence-Based Medicine (EBM), teaching, and assessment. These dashboards provide insights into the use of **Mixed Reality (MR)**, **Augmented Reality (AR)**, **Virtual Reality (VR)**, and **Artificial Intelligence (AI)** in various domains like healthcare and education. 
-
-## Features:
-- **Dashboard for Medical Data Analysis**: Visualize real-time medical data with AR/VR interfaces.
-- **AI for Personalized Education**: Analyze and track student engagement with AI-based educational tools.
-- **Medical Imaging Dashboard**: Integrate AI models for visualizing medical imaging data.
-- **Assessment and Learning Analytics**: Use AI to track and assess student progress in learning and exams.
-  
-## Technologies Used:
-- Python (Flask/Dash)
-- Plotly Dash (for interactive dashboards)
-- Pandas (data handling)
-- Sci-Kit Learn (machine learning models)
-- Plotly (visualizations)
-
-## Getting Started:
-
-### Prerequisites:
-Ensure you have the following dependencies installed:
-- Python 3.7+
-- Dash
-- Plotly
-- Pandas
-- Flask
-- Jupyter Notebooks for data analysis
-
-### Installation:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/AI-MR-AR-VR-Dashboards.git
-   cd AI-MR-AR-VR-Dashboards
-
+## My Collaborative Nature in Deepening the following:  
+- Programming Languages: Proficiency in C#, C++, and Python.
+- 3D Modeling and Design with tools like Blender, Autodesk Maya, and 3ds Max.
+- UX/UI Design: Skills in creating intuitive and user-friendly interfaces for immersive experiences.
+- Software Development: Knowledge of developing applications for VR/AR platforms such as Oculus, HTC Vive, and Microsoft HoloLens.
+- Graphics and Animation: Expertise in creating realistic textures, lighting, and animations.
+- Spatial Computing: Understanding of spatial mapping and environment design.
+- Hardware Proficiency: Experience with VR/AR hardware setup and troubleshooting.
+- Scripting and Automation: Ability to write scripts for automating tasks and enhancing interactivity.
+ 
 

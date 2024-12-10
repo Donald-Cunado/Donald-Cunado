@@ -44,14 +44,4 @@ With a passion for lifelong learning, I aim to integrate **AI and immersive tech
 
 ---
 
-## Collaborative Nature in Deepening the following: 💡
-- Programming Languages: Proficiency in C#, C++, and Python.
-- 3D Modeling and Design with tools like Blender, Autodesk Maya, and 3ds Max.
-- UX/UI Design: Skills in creating intuitive and user-friendly interfaces for immersive experiences.
-- Software Development: Knowledge of developing applications for VR/AR platforms such as Oculus, HTC Vive, and Microsoft HoloLens.
-- Graphics and Animation: Expertise in creating realistic textures, lighting, and animations.
-- Spatial Computing: Understanding of spatial mapping and environment design.
-- Hardware Proficiency: Experience with VR/AR hardware setup and troubleshooting.
-- Scripting and Automation: Ability to write scripts for automating tasks and enhancing interactivity.
- 
 

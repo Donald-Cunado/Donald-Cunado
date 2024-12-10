@@ -19,14 +19,14 @@
 
 ## **Ask Me About My**
 
-## 🌟 My Projects
+## 🌟 Projects
 - 🔭 **[VR/AR/MR Resources](https://github.com/Donald-Cunado/Donald-Cunado/wiki)**: A curated list of tools, frameworks, and tutorials for VR/AR/MR development in education and healthcare. 
 - 📘 **[AI in Evidence-Based Medicine](https://github.com/Donald-Cunado/Donald-Cunado/wiki/AI-in-Evidence%E2%80%90Based-Medicine)**: A research-driven project exploring AI's applications in bridging the gap between clinical theory and practice through real-world evidence.  
 - 💻 **[EdTech AI Applications](https://github.com/Donald-Cunado/Donald-Cunado/wiki/AI-in-EdTech)**: Exploring AI-based tools to personalise learning and improve student engagement.
 
 ---
 
-## 📈 My Skills
+## 📈 Skills
 - Leadership in Educational and Healthcare Settings  
 - Teacher Training and Mentorship  
 - Assessment Design for Large-Scale Classrooms  
@@ -36,7 +36,7 @@
 
 ---
 
-## My Vision 🚀
+## Vision 🚀
 With a passion for lifelong learning, I aim to integrate **AI and immersive technologies** into educational and healthcare systems. My research and projects focus on:
 - Developing **AI-powered tools** to enhance learning and decision-making.
 - Exploring the **intersection of AI and evidence-based medicine**, specifically how AI bridges the gap between theoretical knowledge and practical implementation.
@@ -44,7 +44,7 @@ With a passion for lifelong learning, I aim to integrate **AI and immersive tech
 
 ---
 
-## My Collaborative Nature in Deepening the following:  
+## Collaborative Nature in Deepening the following: 
 - Programming Languages: Proficiency in C#, C++, and Python.
 - 3D Modeling and Design with tools like Blender, Autodesk Maya, and 3ds Max.
 - UX/UI Design: Skills in creating intuitive and user-friendly interfaces for immersive experiences.

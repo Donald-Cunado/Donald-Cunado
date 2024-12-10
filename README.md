@@ -26,7 +26,7 @@ With a passion for lifelong learning, I aim to integrate **AI and immersive tech
 ---
 
 ## 🌟 Projects
-- 🔭 **[VR/AR/MR Resources](https://github.com/your-username/VR-AR-MR-Resources)**: A curated list of tools, frameworks, and tutorials for VR/AR/MR development in education and healthcare.
+- 🔭 **[VR/AR/MR Resources](https://github.com/Donald-Cunado/Donald-Cunado/wiki)**: A curated list of tools, frameworks, and tutorials for VR/AR/MR development in education and healthcare. 
 - 📘 **[AI in Evidence-Based Medicine](https://github.com/your-username/AI-Evidence-Based-Medicine)**: A research-driven project exploring AI's applications in bridging the gap between clinical theory and practice through real-world evidence.  
 - 💻 **[EdTech AI Applications](https://github.com/your-username/EdTech-AI)**: Exploring AI-based tools to personalize learning and improve student engagement.
 

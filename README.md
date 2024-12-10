@@ -9,10 +9,10 @@
   - Teacher Training & Development
   - Assessment in Large-Scale Classroom Settings
   - Financial and Budgetary Management  
-- 💻 Aspiring **EdTech Enthusiast** specializing in:
+- 💻 Aspiring **EdTech Enthusiast** specialising in:
   - Artificial Intelligence in Education
   - Bring-Your-Own-Device (BYOD) Initiatives
-  - Immersive Technologies: Augmented Reality (AR), Virtual Reality (VR), and Extended Reality (XR)
+  - Immersive Technologies: Augmented Reality (AR), Virtual Reality (VR), Mixed Reality (MR) and Extended Reality (XR)
   - The role of **AI in Evidence-Based Medicine**: Bridging the gap between practice and theory through real-world data applications.
 
 ---

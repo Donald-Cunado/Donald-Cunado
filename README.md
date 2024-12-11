@@ -48,5 +48,5 @@ With a passion for lifelong learning, I aim to integrate **AI and immersive tech
 
 - MOOCS design, creation, implementation, and management (https://donaldgemcunado.wixsite.com/vub-mes-e-learning)
 - Print media publication and production; editorial oversight; layout & design; publishing workflow management (https://issuu.com/scis_arusha_tanzania/docs/scis_chronicle_-_nov_dec_2013_pages)
-- Experienced in video creation, editing, optimization, SEO, and audience engagement (https://vimeo.com/user136662994)
+- Experienced in video creation, editing, optimisation, SEO, and audience engagement (https://vimeo.com/user136662994)
 - Website design and maintenance (https://www.st-xavier-cabrini.com/)

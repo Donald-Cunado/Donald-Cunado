@@ -5,7 +5,8 @@
 - 🏅 **Cum Laude Graduate** of MSc in Educational Sciences  @Vrije Universiteit Brussel
 - 🎓 **20+ Years in Education**: Former Headmaster (6 years), Deputy Head & Head of Sixth Form (2 years), Teacher (20 years)  
 - 💡 Expert in:
-  - Educational Leadership
+  - Senior Leadership
+  - Research and Innovation
   - Teacher Training & Development
   - Assessment in Large-Scale Classroom Settings
   - Financial and Budgetary Management  
